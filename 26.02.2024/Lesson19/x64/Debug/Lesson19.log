@@ -1,0 +1,9 @@
+﻿  Fish.cpp
+  Lesson19.cpp
+E:\VisualCodes\Lesson19\Lesson19\Lesson19.cpp(48,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Meet.cpp
+  milk.cpp
+  Product.cpp
+  Shelt.cpp
+  Создание кода...
+  Lesson19.vcxproj -> E:\VisualCodes\Lesson19\x64\Debug\Lesson19.exe
