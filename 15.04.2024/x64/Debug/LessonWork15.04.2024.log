@@ -1,0 +1,4 @@
+﻿  LessonWork15.04.2024.cpp
+D:\Kravchenko\LessonWork15.04.2024\LessonWork15.04.2024.cpp(12,1): error C2504: Animal: не определен базовый класс
+D:\Kravchenko\LessonWork15.04.2024\LessonWork15.04.2024.cpp(24,1): error C2504: Animal: не определен базовый класс
+D:\Kravchenko\LessonWork15.04.2024\LessonWork15.04.2024.cpp(36,1): error C2504: Animal: не определен базовый класс
