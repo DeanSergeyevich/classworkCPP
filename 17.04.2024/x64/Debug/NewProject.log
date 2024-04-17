@@ -1,0 +1,4 @@
+﻿  NewProject.cpp
+NewProject.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Driver::Driver(void)" (??0Driver@@QEAA@XZ) в функции main.
+NewProject.obj : error LNK2001: неразрешенный внешний символ "private: static int Taxi::id" (?id@Taxi@@0HA).
+D:\Kravchenko\NewProject\x64\Debug\NewProject.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
