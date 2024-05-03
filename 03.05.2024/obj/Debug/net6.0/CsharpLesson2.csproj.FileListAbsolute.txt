@@ -1,0 +1,5 @@
+D:\Kravchenko\CsharpLesson2\obj\Debug\net6.0\CsharpLesson2.csproj.AssemblyReference.cache
+D:\Kravchenko\CsharpLesson2\obj\Debug\net6.0\CsharpLesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kravchenko\CsharpLesson2\obj\Debug\net6.0\CsharpLesson2.AssemblyInfoInputs.cache
+D:\Kravchenko\CsharpLesson2\obj\Debug\net6.0\CsharpLesson2.AssemblyInfo.cs
+D:\Kravchenko\CsharpLesson2\obj\Debug\net6.0\CsharpLesson2.csproj.CoreCompileInputs.cache
