@@ -1,0 +1,15 @@
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\Csharp13.exe
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\Csharp13.deps.json
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\Csharp13.runtimeconfig.json
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\Csharp13.dll
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\ref\Csharp13.dll
+D:\Kravchenko\Csharp13\bin\Debug\net6.0\Csharp13.pdb
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.csproj.AssemblyReference.cache
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.AssemblyInfoInputs.cache
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.AssemblyInfo.cs
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.csproj.CoreCompileInputs.cache
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.dll
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\ref\Csharp13.dll
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.pdb
+D:\Kravchenko\Csharp13\obj\Debug\net6.0\Csharp13.genruntimeconfig.cache
