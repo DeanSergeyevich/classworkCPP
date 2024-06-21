@@ -1,0 +1,15 @@
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\Csharp14.exe
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\Csharp14.deps.json
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\Csharp14.runtimeconfig.json
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\Csharp14.dll
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\ref\Csharp14.dll
+D:\Kravchenko\Csharp14\bin\Debug\net6.0\Csharp14.pdb
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.csproj.AssemblyReference.cache
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.AssemblyInfoInputs.cache
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.AssemblyInfo.cs
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.csproj.CoreCompileInputs.cache
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.dll
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\ref\Csharp14.dll
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.pdb
+D:\Kravchenko\Csharp14\obj\Debug\net6.0\Csharp14.genruntimeconfig.cache
